@@ -1,0 +1,3 @@
+[submodule "picle"]
+	path = picle
+	url = https://github.com/bartushk/picle
